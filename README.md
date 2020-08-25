@@ -29,7 +29,7 @@ All my projects can be found in the [**A list of all my projects** gist](https:/
 ## GitHub Stats
 
 <!-- from https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" alt="Andrew's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Zeyu-Li&show_icons=true&hide_border=true&hide_title=true&hide=issues" />
+<div style="text-align:center"><img alt="Andrew's Github Stats" src="https://github-readme-stats-smoky-kappa.vercel.app/api?username=Zeyu-Li&show_icons=true&hide_border=true&hide_title=true&hide=issues" /></div>
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
