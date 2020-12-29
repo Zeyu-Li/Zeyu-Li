@@ -4,22 +4,22 @@
 
 ## I'm a Full-stack, Game Dev, and Programming Enthusiast
 
-- :pencil: Currently working into [electron.js](https://www.electronjs.org/)
+- :pencil: Currently working on [electron.js](https://www.electronjs.org/)
 - :mag_right: ​Looking into **Machine Learning** 🤖
 - :heart: Love to **collaborate** on any projects
-- :pushpin: Interested in :musical_note: music and :straight_ruler: design
+- :pushpin: Interested in 🎨 art and :musical_note: music
 
 ## Projects
 
-All my projects can be found on my [**website**](https://zeyu-li.github.io/website/projects.html#github) or by clicking the images below
+You can check out my 📰 blog [here](https://andrew-li-blog.vercel.app/) or my 🌐 website [here](https://zeyu-li.github.io/website/). If you love my projects and want to support me in making more open source projects, consider donating [here](https://github.com/sponsors/Zeyu-Li). 
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=GitHub_index">](https://zeyu-li.github.io/website/projects.html#github) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=website">](https://zeyu-li.github.io/website/)
+A list of all my projects can be found on my [**website**](https://zeyu-li.github.io/website/projects.html#github) or by clicking this [link](https://zeyu-li.github.io/website/projects.html#github)! 
 
 ## Languages + Tools
 
 <!-- img/icons from devicons.github.io, icons8.com, or vectorlogo.zone -->
 
-|     **:hibiscus: Frontend**     | <img alt="HTML5" title="HTML5"  width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> <img alt="CSS3" title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="React" title="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="WebAssembly" title="WebAssembly" width="32"/> |
+|     **:hibiscus: Frontend**     | <img alt="HTML5" title="HTML5"  width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> <img alt="CSS3" title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="React" title="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img alt="Jekyll" title="Jekyll" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" /> <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="WebAssembly" title="WebAssembly" width="32"/> |
 | :----------------------------- | :------------------------------------------------------------: |
 |     **:briefcase: Backend**     | <img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" title="c" width="32" height="32"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c++" title="c++" width="32" height="32"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="c#" title="c#" width="32" height="32"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" title="nginx" width="32" height="32"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="32" height="32"/> <img alt="SQL" title="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> |
 | **:books: Libraries/Frameworks** | <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" title="Django" width="32" height="32"/> <img alt="Node.js" title="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" title="opencv" width="32" height="32"/> |
@@ -33,4 +33,8 @@ All my projects can be found on my [**website**](https://zeyu-li.github.io/websi
 <!-- from https://github.com/anuraghazra/github-readme-stats -->
 <!-- powered by vercel (vercel.com) -->
 
-<div style="text-align:center"><img alt="Andrew's Github Stats" src="https://github-readme-stats-smoky-kappa.vercel.app/api?username=Zeyu-Li&show_icons=true&hide_border=true&hide_title=true&hide=issues" /></div>
+<div style="text-align:center"><img alt="Andrew's Github Stats" src="https://github-readme-stats-smoky-kappa.vercel.app/api?username=Zeyu-Li&show_icons=true&hide_border=true&hide_title=true&hide=issues" style="text-align:center;"/></div>
+
+# Repos
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=GitHub_index">](https://zeyu-li.github.io/website/projects.html#github) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=website">](https://zeyu-li.github.io/website/)
