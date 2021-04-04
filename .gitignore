@@ -1,2 +1,5 @@
 
 .github/workflows/update-readme.yml
+banner.prproj
+banner.aep
+*.aep

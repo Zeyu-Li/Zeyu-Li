@@ -1,6 +1,6 @@
 <!-- Following this tutoral: https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
 
-# 👋 Hey, Andrew here
+![banner](img/banner.gif)
 
 ## I'm a Full-stack, Game Dev, and Programming Enthusiast
 
