@@ -6,9 +6,9 @@
 
 - :pencil: Currently working on my [Unity-Advanced-3D-Tutorial](https://github.com/Zeyu-Li/Unity-Advanced-3D-Tutorial) 
 - :mag_right: Looking into **Machine Learning** 🤖
-- 💻 Maintaining [lua-runner](https://github.com/Zeyu-Li/lua-runner) - a NPM package with over 1,600 downloads
+- 💻 Maintaining [lua-runner](https://github.com/Zeyu-Li/lua-runner) - a NPM package with **over 1,600 downloads**
 - :heart: Love to **collaborate** on any projects
-- :pushpin: Interested in 🎨 3D art and :musical_note: electronic music
+- :pushpin: Interested in 🎨 **3D art** and :musical_note: **electronic music**
 
 ## Projects
 
