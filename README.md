@@ -3,15 +3,15 @@
 ---
 
 - 📌 Currently a **Research Assistant** at the **University of Alberta**
-- :pencil: Currently working on my [Unity-Advanced-3D-Tutorial](https://github.com/Zeyu-Li/Unity-Advanced-3D-Tutorial) 
+- :pencil: Currently working on my [**Unity-Advanced-3D-Tutorial**](https://github.com/Zeyu-Li/Unity-Advanced-3D-Tutorial) 
 - 🔍 Looking into **Reinforcement Learning** 🤖
 - 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg)
-- ✨ Interested in making 🎨 **3D renders**, 🌟 **vector art**, and :musical_note: **electronic music** 
+- ✨ Interested in making 🎨 3D renders, 🌟 vector art, and :musical_note: electronic music 
 - 💖​ Love to **collaborate** on projects
 
 ## 🧭 Learn More
 
-To find out more about me and if you want to get in contact, check out my 🌐 **website** [here](https://zeyu-li.github.io/website/) or my 📰 **blog** [here](https://andrew-li-blog.vercel.app/)! 
+To find out more about me and if you want to get in contact, check out my [🌐 **website**](https://zeyu-li.github.io/website/) or my [📰 **blog** here](https://andrew-li-blog.vercel.app/)! 
 
 If you want to support me in making more fun and maniacal open source projects, consider donating [here](https://github.com/sponsors/Zeyu-Li)
 
