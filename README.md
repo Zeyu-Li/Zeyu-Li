@@ -3,16 +3,14 @@
 ---
 
 - 📌 Currently a **Research Assistant** at the **University of Alberta**
-- 🔍 Looking into **Reinforcement Learning** 🤖
+- 🔍 Looking into **Reinforcement Learning** 
 - 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg)
-- ✨ Interested in making 🎨 3D renders, 🌟 vector art, and :musical_note: electronic music 
+- ✨ Interested in making 3D renders, vector art, and electronic music 
 - 💖​ Love to **collaborate** on projects
 
 ## 🧭 Learn More
 
-To find out more about me and if you want to get in contact, check out my [🌐 **website**](https://zeyu-li.github.io/website/) or my [📰 **blog** here](https://andrew-li-blog.vercel.app/)! 
-
-If you want to support me in making more fun and maniacal open source projects, consider donating [here](https://github.com/sponsors/Zeyu-Li)
+To find out more about me or if you want to get in contact, check out my [🌐 **website**](https://zeyu-li.github.io/website/) and my [📰 **blog** here](https://andrew-li-blog.vercel.app/)! 
 
 ## 🗨 Languages + 🛠 Tools 
 
