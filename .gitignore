@@ -3,3 +3,6 @@
 banner.prproj
 banner.aep
 *.aep
+*.prproj
+*.png
+test/*
