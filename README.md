@@ -10,7 +10,7 @@
 
 ## 🧭 Learn More
 
-To find out more about me or if you want to get in contact, check out my [🌐 **website**](https://zeyu-li.github.io/website/) and my [📰 **blog** here](https://andrew-li-blog.vercel.app/)! 
+To find out more about me or if you want to get in contact, check out my [🌐 **website**](https://andrewli.site/) and my [📰 **blog** here](https://blog.andrewli.site/)! 
 
 ## 🗨 Languages + 🛠 Tools 
 
@@ -29,12 +29,11 @@ To find out more about me or if you want to get in contact, check out my [🌐 *
     <summary><b>
 📊 GitHub Stats
         </b></summary>
-<div style="text-align:center"><img alt="Andrew's Github Stats" src="https://github-readme-stats-smoky-kappa.vercel.app/api?username=Zeyu-Li&show_icons=true&hide_border=true&hide_title=true&hide=issues&theme=radical" style="text-align:center;"/></div>
+<div style="text-align:center"><img alt="Andrew's Github Stats" src="https://github-readme-stats-smoky-kappa.vercel.app/api?username=Zeyu-Li&show_icons=true&hide_border=true&hide_title=true&theme=radical" style="text-align:center;"/></div>
 </details>
-
 
 
 
 # 🧾 Repos
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=GitHub_index">](https://zeyu-li.github.io/website/projects.html#github) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=website">](https://zeyu-li.github.io/website/)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=GitHub_index&theme=radical">](https://github.com/Zeyu-Li/GitHub_index#github-index) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=lit-website&theme=radical">](https://github.com/Zeyu-Li/lit-website)
