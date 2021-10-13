@@ -36,4 +36,4 @@ To find out more about me or if you want to get in contact, check out my [🌐 *
 
 # 🧾 Repos
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=GitHub_index&theme=radical">](https://github.com/Zeyu-Li/GitHub_index#github-index) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=lit-website&theme=radical">](https://github.com/Zeyu-Li/lit-website)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=github-index-generator&theme=radical">](https://github.com/Zeyu-Li/github-index-generator#github-index) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=lit-website&theme=radical">](https://github.com/Zeyu-Li/lit-website)
