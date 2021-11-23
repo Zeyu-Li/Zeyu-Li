@@ -2,7 +2,8 @@
 
 ---
 
-- 📌 Currently a **Research Assistant** @**University of Alberta** and **Full-Stack Dev** @**Zero RampUp**
+- 📌 Incoming **SWE intern** @[**Intuit**](https://www.intuit.com/) | **Full-Stack Dev** @[**Zero RampUp**](https://zerorampup.com/)
+- 📜 Former **Research Assistant** @[**University of Alberta**](https://www.ualberta.ca/index.html)
 - 🔍 Looking into **Games AI** 
 - 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg)
 - ✨ Interested in making 3D renders, vector art, and electronic music 
@@ -25,7 +26,7 @@ To find out more about me or if you want to get in contact, check out my [🌐 *
 | **:star2: Other** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="32" height="32"/> <img alt="Terminal" title="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <img alt="GitHub" title="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="32" height="32"/> <img alt="Docker" title="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />  <br /><img alt="Lua" title="Lua" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="LaTeX" title="LaTeX" width="32" height="32"/> <img alt="Markdown" title="Markdown" width="32px" src="https://img.icons8.com/android/32/000000/markdown.png" /> <img alt="MIPS Assembly" title="Assembly" width="32px" style="image-rendering: crisp-edges;" src="https://assets.exercism.io/tracks/mips-bordered-turquoise.png?size=32" /> |
 |       **:book: Learning**       | <img alt="Haskell" title="Haskell" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" /> <img alt="Golang" title="Go" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> <img alt="APL" title="APL" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/APLgradeup.svg/40px-APLgradeup.svg.png" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="32" height="32"/> |
 
-<details>
+<details open>
     <summary><b>
 📊 GitHub Stats
         </b></summary>
@@ -34,6 +35,7 @@ To find out more about me or if you want to get in contact, check out my [🌐 *
 
 
 
-# 🧾 Repos
+
+# 🧾 Notable Repos
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=github-index-generator&theme=radical">](https://github.com/Zeyu-Li/github-index-generator#github-index) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=lit-website&theme=radical">](https://github.com/Zeyu-Li/lit-website)
