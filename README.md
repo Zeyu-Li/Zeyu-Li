@@ -35,12 +35,8 @@ To find out more about me or if you want to get in contact, check out my [🌐 *
 <div align="center"><img alt="Andrew's Github Stats" src="https://github-readme-stats-smoky-kappa.vercel.app/api?username=Zeyu-Li&show_icons=true&hide_border=true&hide_title=true&theme=radical" style="text-align:center;"/></div>
 </details>
 
-
-
-
-
 # 🧾 Notable Repos
 
 <div align="center">
-    <p><a href='https://github.com/Zeyu-Li/github-index-generator#github-index'><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=github-index-generator&theme=radical"></a> <a href='https://github.com/Zeyu-Li/lit-website'><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=lit-website&theme=radical"></a></p>
+    <p><a href='https://github.com/Zeyu-Li/github-index-generator#github-index' style="margin-right: 10px"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=github-index-generator&theme=radical"></a> <a href='https://github.com/Zeyu-Li/lit-website'><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeyu-Li&repo=lit-website&theme=radical"></a></p>
 </div>
