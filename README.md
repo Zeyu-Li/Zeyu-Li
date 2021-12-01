@@ -2,8 +2,8 @@
 
 ---
 
-- 📌 Incoming **SWE intern** @[**Intuit**](https://www.intuit.com/) | **Full-Stack Dev** @[**Zero RampUp**](https://zerorampup.com/)
-- 📜 Former **Research Assistant** @[**University of Alberta**](https://www.ualberta.ca/index.html)
+- 📌 Incoming **SWE intern** [@**Intuit**](https://www.intuit.com/) | **Full-Stack Dev** [@**Zero RampUp**](https://zerorampup.com/)
+- 📜 Former **Research Assistant** [@**University of Alberta**](https://www.ualberta.ca/index.html)
 - 🔍 Looking into **Games AI** 
 - 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg)
 - ✨ Interested in making 3D renders, vector art, and electronic music 
