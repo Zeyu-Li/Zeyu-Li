@@ -13,6 +13,8 @@
 
 To find out more about me or if you want to get in contact, check out my [🌐 **website**](https://andrewli.site/) and my [📰 **blog**](https://blog.andrewli.site/)! 
 
+You can also hire me as a freelancer by visiting [forhire.andrewli.site](https://forhire.andrewli.site/) 
+
 ## 🗨 Languages + 🛠 Tools 
 
 <!-- img/icons from devicon.dev, icons8.com, or vectorlogo.zone -->
