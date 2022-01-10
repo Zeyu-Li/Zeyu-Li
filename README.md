@@ -13,7 +13,7 @@
 
 To find out more about me or if you want to get in contact, check out my [🌐 **website**](https://andrewli.site/) and my [📰 **blog**](https://blog.andrewli.site/)! 
 
-You can also hire me as a freelancer by visiting [forhire.andrewli.site](https://forhire.andrewli.site/) 
+You can also hire me as a freelancer by visiting [freelancing.andrewli.site](https://freelancing.andrewli.site/) 
 
 ## 🗨 Languages + 🛠 Tools 
 
