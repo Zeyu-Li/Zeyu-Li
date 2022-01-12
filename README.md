@@ -2,7 +2,7 @@
 
 ---
 
-- 📌 Incoming **SWE intern** [**@Intuit**](https://www.intuit.com/) | **Full-Stack Dev** [**@Zero RampUp**](https://zerorampup.com/)
+- 📌 **SWD intern** [**@Intuit**](https://www.intuit.com/) | **Full-Stack Dev** [**@Zero RampUp**](https://zerorampup.com/)
 - 📜 Former **Research Assistant** [**@University of Alberta**](https://www.ualberta.ca/index.html)
 - 🔍 Looking into **Esolangs** 
 - 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg)
