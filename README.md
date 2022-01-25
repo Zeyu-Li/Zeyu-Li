@@ -34,8 +34,9 @@ You can also hire me as a freelancer by visiting [freelancing.andrewli.site](htt
     <summary><b>
 📊 GitHub Stats
         </b></summary>
-<div align="center"><img alt="Andrew's Github Stats" src="https://github-readme-stats-smoky-kappa.vercel.app/api?username=Zeyu-Li&show_icons=true&hide_title=true&hide_border=true&theme=radical" style="text-align:center;"/></div>
+<div align="center"><img alt="Metrics" src="https://metrics.lecoq.io/Zeyu-Li?template=classic&isocalendar=1&languages=1&achievements=1&lines=1&gists=1&introduction=1&isocalendar.duration=full-year&languages.ignored=jupyter%20notebook&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true" style="text-align:center;"/></div>
 </details>
+
 
 
 # 🧾 Notable Repos
