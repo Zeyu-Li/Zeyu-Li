@@ -30,7 +30,7 @@ You can also hire me as a freelancer by visiting [freelancing.andrewli.site](htt
 
 ----
 
-<details open>
+<details>
     <summary><b>
 📊 GitHub Stats
         </b></summary>
