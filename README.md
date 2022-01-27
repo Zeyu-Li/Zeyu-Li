@@ -7,7 +7,7 @@
 - 🔍 Looking into **Esolangs** 
 - 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg)
 - ✨ Interested in making 3D renders, vector art, and electronic music 
-- 💖​ Love to **collaborate** on projects
+- 💖 Love to **collaborate** on projects
 
 ## 🧭 Learn More
 
@@ -29,6 +29,8 @@ You can also hire me as a freelancer by visiting [freelancing.andrewli.site](htt
 |       **:book: Learning**       | <img alt="Haskell" title="Haskell" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" /> <img alt="Golang" title="Go" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> <img alt="APL" title="APL" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/APLgradeup.svg/40px-APLgradeup.svg.png" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" width="32" height="32"/> |
 
 ----
+
+<a name="stats"></a>
 
 <details>
     <summary><b>
