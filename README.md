@@ -13,7 +13,7 @@
 
 To find out more about me or if you want to get in contact, check out my [🌐 **website**](https://andrewli.site/) and my [📰 **blog**](https://blog.andrewli.site/)! 
 
-CEO of Antarctic Solutions Inc., a solutions building company developing professional websites or applications see [antarcticsolutions.ca](https://antarctic-solutions.vercel.app/)
+CEO of Antarctic Solutions Inc., a solutions building company developing professional websites or applications see [antarcticsolutions.ca](https://antarcticsolutions.ca/)
 
 ## 🗨 Languages + 🛠 Tools 
 
