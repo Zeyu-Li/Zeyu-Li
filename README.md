@@ -4,7 +4,7 @@
 
 - 📌 **SWD intern** [**@Intuit**](https://www.intuit.com/) | **Project Lead** [**@Zero RampUp**](https://zerorampup.com/)
 - 📜 Former **Research Assistant** [**@University of Alberta**](https://www.ualberta.ca/index.html)
-- 🔍 Looking into **Entrepreneurship** 
+- 🔍 Looking into **AR/VR 🥽** 
 - 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg "download count badge")
 - ✨ Interested in making 3D renders, vector art, and electronic music 
 - 💖 Love to **collaborate** on projects
@@ -33,7 +33,7 @@ CEO of Antarctic Solutions Inc., a solutions building company developing profess
 
 <a name="stats"></a>
 
-<details open>
+<details>
     <summary><h1>
 📊 GitHub Stats (Click to Expand)
         </h1></summary>
