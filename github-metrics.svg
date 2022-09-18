@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -84,7 +84,7 @@ Life is short, so why not do things? 🛠</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3723 Commits
+                            3727 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -240,14 +240,14 @@ Life is short, so why not do things? 🛠</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.63683659869344" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="157.63683659869344" y="0" width="121.76764373814375" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="279.40448033683714" y="0" width="97.36519667620368" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="376.76967701304085" y="0" width="36.4094619558538" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="413.1791389688946" y="0" width="21.849233271331077" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="435.0283722402257" y="0" width="10.014955682503457" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="445.04332792272913" y="0" width="7.8903483439921605" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.9336762667213" y="0" width="7.066323733278654" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.5191165187211" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="157.5191165187211" y="0" width="121.6767100638314" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="279.1958265825525" y="0" width="97.29248626798595" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="376.4883128505385" y="0" width="36.382272087891" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="412.87058493842943" y="0" width="21.832916694929697" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="434.70350163335917" y="0" width="10.007476711158295" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="444.7109783445174" y="0" width="7.884455987496649" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.59543433201407" y="0" width="7.40456566798592" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2320,10 +2320,10 @@ Life is short, so why not do things? 🛠</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.583333333333334)">
+                            <g transform="translate(-10.2, 11.5)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4166666666666665 0,1.4166666666666667 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4166666666666667 1.7,2.4166666666666665 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5 0,1.5 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5 1.7,2.5 z"/>
                             </g>
                         </g>
                     </g>
@@ -2630,7 +2630,7 @@ Life is short, so why not do things? 🛠</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.89493497604383 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.10711841204657 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2962,7 +2962,7 @@ Life is short, so why not do things? 🛠</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.83m out of 341m repositories</span>
+                                    <span class="gh">ranked 2.83m out of 342m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3000,7 +3000,7 @@ Life is short, so why not do things? 🛠</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.73m out of 341m repositories</span>
+                                    <span class="gh">ranked 1.73m out of 342m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -3127,7 +3127,7 @@ Life is short, so why not do things? 🛠</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2022, 18:52:20 (timezone America/Regina) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Sept 2022, 17:50:20 (timezone America/Regina) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
