@@ -2,20 +2,20 @@
 
 ---
 
-- 📌 **SWD intern** [**@Intuit**](https://www.intuit.com/) | **Project Lead** [**@Zero RampUp**](https://zerorampup.com/)
+- 📌 **Project Lead** [**@Zero RampUp**](https://zerorampup.com/) | **Former SWD intern** [**@Intuit**](https://www.intuit.com/)
 - 📜 Former **Research Assistant** [**@University of Alberta**](https://www.ualberta.ca/index.html)
-- 🔍 Looking into **AR/VR 🥽** 
+- 🔍 Looking into **AR/VR 🥽**
 - 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg "download count badge")
-- ✨ Interested in making 3D renders, vector art, and electronic music 
-- 💖 Love to **collaborate** on projects
+- ✨ Interested in making 3D renders, vector art, and electronic music
+- 💖 Love to explore new ideas and bring them to life!
 
 ## 🧭 Learn More
 
-To find out more about me or if you want to get in contact, check out my [🌐 **website**](https://andrewli.site/) and my [📰 **blog**](https://blog.andrewli.site/)! 
+To find out more about me or if you want to get in contact, check out my [🌐 **website**](https://andrewli.site/) and my [📰 **blog**](https://blog.andrewli.site/)!
 
 CEO of Antarctic Solutions Inc., a solutions building company developing professional websites or applications see [antarcticsolutions.ca](https://antarcticsolutions.ca/)
 
-## 🗨 Languages + 🛠 Tools 
+## 🗨 Languages + 🛠 Tools
 
 <!-- img/icons from devicon.dev, icons8.com, or vectorlogo.zone -->
 
