@@ -2,9 +2,9 @@
 
 ---
 
-- 📌 **Project Lead** [**@Zero RampUp**](https://zerorampup.com/) | **Former SWD intern** [**@Intuit**](https://www.intuit.com/)
+- 📌 **Incoming Metaverse intern** 🥽 [**@Intuit**](https://www.intuit.com/) | **Former Project Lead** [**@Zero RampUp**](https://zerorampup.com/)
 - 📜 Former **Research Assistant** [**@University of Alberta**](https://www.ualberta.ca/index.html)
-- 🔍 Looking into **AR/VR 🥽**
+- 🔍 Looking into **RL** 🤖
 - 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg "download count badge")
 - ✨ Interested in making 3D renders, vector art, and electronic music
 - 💖 Love to explore new ideas and bring them to life!
