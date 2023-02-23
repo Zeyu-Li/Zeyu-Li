@@ -2,12 +2,12 @@
 
 ---
 
-- 📌 **Incoming Metaverse intern** 🥽 [**@Intuit**](https://www.intuit.com/) | **Former Project Lead** [**@Zero RampUp**](https://zerorampup.com/)
-- 📜 Former **Research Assistant** [**@University of Alberta**](https://www.ualberta.ca/index.html)
+- 📌 **Incoming Metaverse intern** 🥽 [**@Intuit**](https://www.intuit.com/) 
+- 📜 Former **Research Assistant** [**@University of Alberta**](https://www.ualberta.ca/index.html) | **Former Project Lead** [**@Zero RampUp**](https://zerorampup.com/)
 - 🔍 Looking into **RL** 🤖
-- 💻 Maintaining [**lua-runner**](https://github.com/Zeyu-Li/lua-runner) - a NPM package with ![download count badge](https://img.shields.io/npm/dt/lua-runner.svg "download count badge")
-- ✨ Interested in making 3D renders, vector art, and electronic music
-- 💖 Love to explore new ideas and bring them to life!
+- 💻 Maintaining [**UwULang**](https://github.com/UwULang/uwulang) - the soon to be #1 programming language in the world and [**lua-runner**](https://github.com/Zeyu-Li/lua-runner)
+- ✨ Interested in making 3D art, vector illustrations, and electronic music
+- 💖 Love to investigate new ideas and bring them to life!
 
 ## 🧭 Learn More
 
@@ -33,14 +33,12 @@ CEO of Antarctic Solutions Inc., a solutions building company developing profess
 
 <a name="stats"></a>
 
-<details>
+<details open>
     <summary><h1>
-📊 GitHub Stats (Click to Expand)
+📊 GitHub Stats
         </h1></summary>
 <div align="center"><img align="center" src="/github-metrics.svg" alt="Metrics"></div>
 </details>
-
-
 
 
 # 🧾 Notable Repos
