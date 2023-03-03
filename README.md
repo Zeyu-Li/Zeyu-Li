@@ -33,7 +33,7 @@ CEO of Antarctic Solutions Inc., a solutions building company developing profess
 
 <a name="stats"></a>
 
-<details open>
+<details>
     <summary><h1>
 📊 GitHub Stats
         </h1></summary>
