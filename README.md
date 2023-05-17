@@ -2,7 +2,7 @@
 
 ---
 
-- 📌 **Incoming Metaverse intern** 🥽 [**@Intuit**](https://www.intuit.com/) 
+- 📌 **Metaverse intern** 🥽 [**@Intuit**](https://www.intuit.com/) 
 - 📜 Former **Research Assistant** [**@University of Alberta**](https://www.ualberta.ca/index.html) | **Former Project Lead** [**@Zero RampUp**](https://zerorampup.com/)
 - 🔍 Looking into **RL** 🤖
 - 💻 Maintaining [**UwULang**](https://github.com/UwULang/uwulang) - the soon to be #1 programming language in the world and [**lua-runner**](https://github.com/Zeyu-Li/lua-runner)
