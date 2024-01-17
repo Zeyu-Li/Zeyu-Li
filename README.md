@@ -2,10 +2,10 @@
 
 ---
 
-- 📌 **Metaverse intern** 🥽 [**@Intuit**](https://www.intuit.com/) 
-- 📜 Former **Research Assistant** [**@University of Alberta**](https://www.ualberta.ca/index.html) | **Former Product Manager** [**@Zero RampUp**](https://zerorampup.com/)
-- 🔍 Looking into **LLVM** 💿
-- 💻 Maintaining [**UwULang**](https://github.com/UwULang/uwulang) - the soon to be #1 programming language in the world and [**lua-runner**](https://github.com/Zeyu-Li/lua-runner)
+- 📌 Currently waddling arround Antarctica 🐧
+- 📜 **Metaverse intern** 🥽 [**@Intuit**](https://www.intuit.com/)
+- 🔍 Looking into **B2B** Opportunities
+- 💻 Maintaining [**UwULang**](https://github.com/UwULang/uwulang) - the soon to be #1 programming language in the world
 - ✨ Interested in making 3D art, vector illustrations, and electronic music
 - 💖 Love to investigate new ideas and bring them to life!
 
