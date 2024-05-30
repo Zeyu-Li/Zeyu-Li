@@ -3,17 +3,15 @@
 ---
 
 - 📌 Currently waddling arround Antarctica 🐧
-- 📜 **Metaverse intern** 🥽 [**@Intuit**](https://www.intuit.com/)
-- 🔍 Looking into **B2B** Opportunities
+- 📜 Software Engineer 2 (AI) [**@Intuit**](https://www.intuit.com/)
 - 💻 Maintaining [**UwULang**](https://github.com/UwULang/uwulang) - the soon to be #1 programming language in the world
 - ✨ Interested in making 3D art, vector illustrations, and electronic music
+- 🔍 Looking into NLP and side hustles 🤡
 - 💖 Love to investigate new ideas and bring them to life!
 
 ## 🧭 Learn More
 
 To find out more about me or if you want to get in contact, check out my [🌐 **website**](https://andrewli.site/) and my [📰 **blog**](https://blog.andrewli.site/)!
-
-CEO of Antarctic Solutions Inc., a solutions building company developing professional websites or applications see [antarcticsolutions.ca](https://antarcticsolutions.ca/)
 
 ## 🗨 Languages + 🛠 Tools
 
