@@ -6,7 +6,7 @@
 - 📜 Software Engineer 2 (AI) [**@Intuit**](https://www.intuit.com/)
 - 💻 Maintaining [**UwULang**](https://github.com/UwULang/uwulang) - the soon to be #1 programming language in the world
 - ✨ Interested in making 3D art, vector illustrations, and electronic music
-- 🔍 Looking into NLP and side hustles 🤡
+- 🔍 Looking into edge hardware and microcontrollers 
 - 💖 Love to investigate new ideas and bring them to life!
 
 ## 🧭 Learn More
